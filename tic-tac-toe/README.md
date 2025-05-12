@@ -22,13 +22,6 @@ A clean, interactive **Tic-Tac-Toe** game built using **React.js** with modern R
 
 ---
 
-## 📷 Screenshot
-
-![Tic Tac Toe Screenshot](screenshot.png)  
-*(Add a screenshot of your app and name it `screenshot.png` in the root)*
-
----
-
 ## 📁 Project Structure
 my-tic-tac-toe/
 ├── public/
